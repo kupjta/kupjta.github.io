@@ -1,2 +1,1 @@
-kupjta website
-apk app
+<a href=""></a><br/>

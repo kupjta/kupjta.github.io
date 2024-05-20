@@ -1,0 +1,2 @@
+kupjta website
+apk app
